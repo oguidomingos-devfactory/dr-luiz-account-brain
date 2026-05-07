@@ -6,7 +6,7 @@
 - **Canal Wuphf:** #dr-luiz
 
 ## Contexto
-Cliente ativo da Iceberg Company.
+Cliente ativo da Pulso.
 
 ## Issues Ativas
 _Gerado automaticamente pela bridge_
