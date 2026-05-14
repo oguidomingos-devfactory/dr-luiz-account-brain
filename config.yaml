@@ -4,6 +4,11 @@
 cliente:
   nome: "Dr. Luiz Sarmanho"
   slug: "dr-luiz"
+  keywords:
+    - "Dr. Luiz"
+    - "Dr. Luiz Sarmanho"
+    - "Luiz Sarmanho"
+    - "Sarmanho"
   inicio: ""
   plano: ""
   valor_mensal: ""
