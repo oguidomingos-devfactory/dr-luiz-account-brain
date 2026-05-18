@@ -43,3 +43,5 @@
 | 2026-05-18 23:00 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-18 23:00 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-18 23:00 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-18 23:16 UTC | DES-605 | atualizado | Dr Luiz Sarmanho: Preview LP + Proposta |
+| 2026-05-18 23:21 UTC | DES-605 | atualizado | Dr Luiz Sarmanho: Preview LP + Proposta |
