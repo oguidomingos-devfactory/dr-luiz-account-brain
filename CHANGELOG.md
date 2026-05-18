@@ -45,3 +45,5 @@
 | 2026-05-18 18:30 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
 | 2026-05-18 18:31 UTC | DES-605 | status: todo → in_progress | Dr Luiz Sarmanho: Preview LP + Proposta |
 | 2026-05-18 18:31 UTC | DES-604 | atualizado | Dr Luiz Sarmanho: Triagem |
+| 2026-05-18 18:51 UTC | DES-604 | status: in_progress → done | Dr Luiz Sarmanho: Triagem |
+| 2026-05-18 18:51 UTC | DES-605 | atualizado | Dr Luiz Sarmanho: Preview LP + Proposta |
