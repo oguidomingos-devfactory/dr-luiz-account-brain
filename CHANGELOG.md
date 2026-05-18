@@ -58,3 +58,5 @@
 | 2026-05-18 17:36 UTC | DES-605 | criado | Dr Luiz Sarmanho: Preview LP + Proposta |
 | 2026-05-18 17:36 UTC | DES-604 | criado | Dr Luiz Sarmanho: Triagem |
 | 2026-05-18 17:36 UTC | DES-590 | status: in_progress → done | Dr Luiz Sarmanho: Triagem |
+| 2026-05-18 17:41 UTC | DES-591 | status: in_progress → done | Dr Luiz Sarmanho: Proposta Comercial + Preview (LP + Posts + Planos) |
+| 2026-05-18 17:41 UTC | DES-604 | atualizado | Dr Luiz Sarmanho: Triagem |
