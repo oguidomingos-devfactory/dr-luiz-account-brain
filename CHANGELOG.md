@@ -43,3 +43,5 @@
 | 2026-05-19 19:30 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-19 19:30 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-19 19:30 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-19 19:36 UTC | DES-362 | atualizado | Dr. Luiz: Onboarding Dr. Luiz Sarmanho — Pipeline 12 Etapas Pulso |
+| 2026-05-19 19:36 UTC | DES-604 | atualizado | Dr Luiz Sarmanho: Triagem |
