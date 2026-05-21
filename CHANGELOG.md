@@ -44,3 +44,10 @@
 | 2026-05-21 21:00 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 21:00 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 21:00 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-21 21:02 UTC | DES-597 | status: todo → in_progress | Dr Luiz Sarmanho: 06: Auditoria Digital |
+| 2026-05-21 21:02 UTC | DES-602 | status: in_progress → done | Dr Luiz Sarmanho: 11: Arquitetura de Funis |
+| 2026-05-21 21:02 UTC | DES-592 | status: todo → in_progress | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 21:02 UTC | DES-640 | status: todo → in_progress | Dr Luiz Sarmanho: 01b: Coleta de Dados (Continuação) |
+| 2026-05-21 21:02 UTC | DES-595 | atualizado | Dr Luiz Sarmanho: 04: SWOT |
+| 2026-05-21 21:07 UTC | DES-596 | atualizado | Dr Luiz Sarmanho: 05: Análise de Concorrência |
+| 2026-05-21 21:07 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
