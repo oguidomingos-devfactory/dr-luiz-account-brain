@@ -44,3 +44,8 @@
 | 2026-05-21 21:30 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 21:30 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 21:30 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-21 21:32 UTC | DES-596 | atualizado | Dr Luiz Sarmanho: 05: Análise de Concorrência |
+| 2026-05-21 21:32 UTC | DES-598 | status: in_progress → done | Dr Luiz Sarmanho: 07: Baseline de Métricas |
+| 2026-05-21 21:32 UTC | DES-599 | atualizado | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
+| 2026-05-21 21:32 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 21:37 UTC | DES-596 | status: in_progress → done | Dr Luiz Sarmanho: 05: Análise de Concorrência |
