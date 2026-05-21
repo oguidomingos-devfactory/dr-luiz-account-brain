@@ -51,3 +51,12 @@
 | 2026-05-21 21:02 UTC | DES-595 | atualizado | Dr Luiz Sarmanho: 04: SWOT |
 | 2026-05-21 21:07 UTC | DES-596 | atualizado | Dr Luiz Sarmanho: 05: Análise de Concorrência |
 | 2026-05-21 21:07 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 21:12 UTC | DES-594 | atualizado | Dr Luiz Sarmanho: 03: Análise PESTLE |
+| 2026-05-21 21:12 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 21:17 UTC | DES-598 | atualizado | Dr Luiz Sarmanho: 07: Baseline de Métricas |
+| 2026-05-21 21:17 UTC | DES-599 | atualizado | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
+| 2026-05-21 21:17 UTC | DES-594 | status: in_progress → done | Dr Luiz Sarmanho: 03: Análise PESTLE |
+| 2026-05-21 21:22 UTC | DES-592 | status: in_progress → done | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 21:22 UTC | DES-640 | status: in_progress → done | Dr Luiz Sarmanho: 01b: Coleta de Dados (Continuação) |
+| 2026-05-21 21:22 UTC | DES-599 | atualizado | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
+| 2026-05-21 21:22 UTC | DES-598 | atualizado | Dr Luiz Sarmanho: 07: Baseline de Métricas |
