@@ -44,3 +44,16 @@
 | 2026-05-21 20:30 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:30 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:32 UTC | DES-600 | status: in_progress → done | Dr Luiz Sarmanho: 09: ICP e Persona |
+| 2026-05-21 20:42 UTC | DES-640 | criado | Dr Luiz Sarmanho: 01b: Coleta de Dados (Continuação) |
+| 2026-05-21 20:42 UTC | DES-594 | atualizado | Dr Luiz Sarmanho: 03: Análise PESTLE |
+| 2026-05-21 20:42 UTC | DES-592 | status: in_progress → todo | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 20:42 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 20:47 UTC | DES-592 | status: todo → in_progress | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 20:47 UTC | DES-594 | atualizado | Dr Luiz Sarmanho: 03: Análise PESTLE |
+| 2026-05-21 20:47 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 20:47 UTC | DES-640 | status: in_progress → todo | Dr Luiz Sarmanho: 01b: Coleta de Dados (Continuação) |
+| 2026-05-21 20:47 UTC | DES-596 | atualizado | Dr Luiz Sarmanho: 05: Análise de Concorrência |
+| 2026-05-21 20:47 UTC | DES-595 | status: in_progress → todo | Dr Luiz Sarmanho: 04: SWOT |
+| 2026-05-21 20:52 UTC | DES-592 | status: in_progress → todo | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 20:52 UTC | DES-599 | atualizado | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
+| 2026-05-21 20:52 UTC | DES-640 | atualizado | Dr Luiz Sarmanho: 01b: Coleta de Dados (Continuação) |
