@@ -43,3 +43,17 @@
 | 2026-05-21 20:00 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:00 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:00 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-21 20:17 UTC | DES-592 | status: backlog → in_progress | Dr Luiz Sarmanho: 01: Coleta e Onboarding |
+| 2026-05-21 20:17 UTC | DES-594 | status: backlog → in_progress | Dr Luiz Sarmanho: 03: Análise PESTLE |
+| 2026-05-21 20:17 UTC | DES-593 | status: backlog → in_review | Dr Luiz Sarmanho: 02: Business Model Canvas |
+| 2026-05-21 20:17 UTC | DES-595 | status: backlog → todo | Dr Luiz Sarmanho: 04: SWOT |
+| 2026-05-21 20:22 UTC | DES-598 | status: backlog → in_progress | Dr Luiz Sarmanho: 07: Baseline de Métricas |
+| 2026-05-21 20:22 UTC | DES-597 | status: backlog → in_progress | Dr Luiz Sarmanho: 06: Auditoria Digital |
+| 2026-05-21 20:22 UTC | DES-599 | status: backlog → in_progress | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
+| 2026-05-21 20:22 UTC | DES-603 | status: backlog → in_progress | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 20:22 UTC | DES-596 | status: backlog → in_progress | Dr Luiz Sarmanho: 05: Análise de Concorrência |
+| 2026-05-21 20:22 UTC | DES-602 | status: backlog → todo | Dr Luiz Sarmanho: 11: Arquitetura de Funis |
+| 2026-05-21 20:22 UTC | DES-600 | status: backlog → todo | Dr Luiz Sarmanho: 09: ICP e Persona |
+| 2026-05-21 20:22 UTC | DES-593 | status: in_review → done | Dr Luiz Sarmanho: 02: Business Model Canvas |
+| 2026-05-21 20:22 UTC | DES-595 | status: todo → in_progress | Dr Luiz Sarmanho: 04: SWOT |
+| 2026-05-21 20:22 UTC | DES-594 | atualizado | Dr Luiz Sarmanho: 03: Análise PESTLE |
