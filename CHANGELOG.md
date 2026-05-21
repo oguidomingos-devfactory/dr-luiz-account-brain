@@ -49,3 +49,5 @@
 | 2026-05-21 21:32 UTC | DES-599 | atualizado | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
 | 2026-05-21 21:32 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
 | 2026-05-21 21:37 UTC | DES-596 | status: in_progress → done | Dr Luiz Sarmanho: 05: Análise de Concorrência |
+| 2026-05-21 21:52 UTC | DES-603 | atualizado | Dr Luiz Sarmanho: 12: Copywriting e TSL |
+| 2026-05-21 21:52 UTC | DES-599 | status: in_progress → done | Dr Luiz Sarmanho: 08: Plano de 90 Dias |
