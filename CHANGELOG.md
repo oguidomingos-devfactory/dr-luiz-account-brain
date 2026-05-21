@@ -43,3 +43,4 @@
 | 2026-05-21 20:30 UTC | DES-357 sync | Dr. Luiz: Criar 4 posts Instagram preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:30 UTC | DES-356 sync | Dr. Luiz: Design visual da LP preview — proposta Dr. Luiz Sarmanho [done] |
 | 2026-05-21 20:30 UTC | DES-342 sync | Dr. Luiz: Dr. Luiz Sarmanho [done] |
+| 2026-05-21 20:32 UTC | DES-600 | status: in_progress → done | Dr Luiz Sarmanho: 09: ICP e Persona |
